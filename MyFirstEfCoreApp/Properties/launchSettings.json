@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MyFirstEfCoreApp": {
+      "commandName": "Project",
+      "commandLineArgs": "l"
+    }
+  }
+}
